@@ -12,8 +12,8 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Nikita Tr3ble",
-  description: "Bio of Nikita Tr3ble",
+  title: "MIPOHBOPOHIH",
+  description: "mipoh`s bio",
 };
 
 export default function RootLayout({
