@@ -5,7 +5,7 @@ function Footer() {
 		<footer className="bottom-0 w-full py-4 bg-slate-100 dark:bg-black pb-2">
 			<div className="flex gap-4 justify-center">
 				<a
-					href="https://t.me/y9mphbphh"
+					href="https://t.me/mipohbopohih"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="text-4xl"
