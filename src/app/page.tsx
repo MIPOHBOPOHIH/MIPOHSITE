@@ -58,7 +58,7 @@ export default function Home() {
               <FaGithub />
             </a>
             <a
-              href="https://t.me/y9mphbphh"
+              href="https://t.me/mipohbopohih"
               target="_blank"
               rel="noopener noreferrer"
               className="text-3xl md:text-4xl hover:opacity-70 transition-opacity"
