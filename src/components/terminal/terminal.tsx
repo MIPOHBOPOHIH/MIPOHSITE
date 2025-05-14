@@ -6,13 +6,13 @@ const Terminal = () => {
   const fullCode = `def about_me():
     return {
         "profile": {
-            "name": "mipohbopohih",
+            "name": "Miron",
             "age": 15,
             "nickname": "MIPOHBOPOHIH",
         },
         "contact_info": {
             "email": "mipoh@mipoh.ru",
-            "telegram": "@y9mphbphh",
+            "telegram": "@mipohbopohih",
         },
     }`;
 
