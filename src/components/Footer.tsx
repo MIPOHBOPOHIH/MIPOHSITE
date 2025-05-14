@@ -24,7 +24,6 @@ function Footer() {
 			</div>
 			<p className="text-center mt-4 m-5">
 				Made with <span className="text-red-500">❤</span> and Next.js and Tr3ble {" "}
-				<SiNextdotjs className="inline-block" />
 			</p>
 		</footer>
 	);
