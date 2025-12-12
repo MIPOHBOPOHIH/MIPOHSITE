@@ -1,0 +1,7 @@
+/home/rwxae/code/rwxae.xyz/.devenv/flake.json
+/home/rwxae/code/rwxae.xyz/.devenv.flake.nix
+/home/rwxae/code/rwxae.xyz/.env
+/home/rwxae/code/rwxae.xyz/devenv.local.nix
+/home/rwxae/code/rwxae.xyz/devenv.lock
+/home/rwxae/code/rwxae.xyz/devenv.nix
+/home/rwxae/code/rwxae.xyz/devenv.yaml
