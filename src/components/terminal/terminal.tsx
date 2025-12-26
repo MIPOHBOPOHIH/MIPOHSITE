@@ -7,12 +7,12 @@ const Terminal = () => {
     return {
         "profile": {
             "name": "Miron",
-            "age": 15,
+            "age": 16,
             "nickname": "MIPOHBOPOHIH",
         },
         "contact_info": {
             "email": "mipoh@mipoh.ru",
-            "telegram": "@mipohbopohih",
+            "telegram": "@mipohbopohih, @durovpidaras",
         },
     }`;
 
