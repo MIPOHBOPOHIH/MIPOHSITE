@@ -6,6 +6,6 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   server: {
-    preset: "github_pages",
+    preset: process.env.VERCEL ? "vercel" : "github_pages",
   },
 });
