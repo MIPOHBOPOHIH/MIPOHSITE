@@ -9,7 +9,7 @@ export default function App() {
     <Router
       root={(props) => (
         <MetaProvider>
-          <Title>rwxae</Title>
+          <Title>MIPOHBOPOHIH</Title>
           <Suspense>{props.children}</Suspense>
         </MetaProvider>
       )}

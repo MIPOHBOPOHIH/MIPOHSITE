@@ -98,7 +98,7 @@ export const Terminal: Component<TerminalProps> = (props) => {
   };
 
   return (
-    <div class="font-mono text-xl">
+    <div class="font-mono text-sm sm:text-base md:text-xl">
       <div ref={logsContainerRef}>
         <For each={logs()}>
           {(log) => (
